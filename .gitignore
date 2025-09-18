@@ -10,3 +10,8 @@ __pycache__/
 *.pyc
 .DS_Store
 */runs/
+Audio-Textual Based Violence Detection/gemini-api.json
+Audio-Textual Based Violence Detection/speaker-test.py
+Audio-Textual Based Violence Detection/speaker_diarization.ipynb
+Audio-Textual Based Violence Detection/youtube-video.ipynb
+Audio-Textual Based Violence Detection/audio-textual-analysis.ipynb
