@@ -1,0 +1,52 @@
+SPEAKER_00: Beep beep
+SPEAKER_00: How you doing?
+SPEAKER_00: Good, you have any ID on you? Yes, ma'am.
+SPEAKER_01: Yes, ma'am.
+SPEAKER_00: You have any idea? Just tell me.
+SPEAKER_01: Just tell me.
+SPEAKER_00: What's your name? Matthew Falamon. Falamon?
+SPEAKER_01: What's it? What's your name?
+SPEAKER_01: you
+SPEAKER_00: Fowler. Fowler. M-A-T-T-H-E-W. It's right here, ma'am. Sorry, I don't need you. Yeah, you're good. I don't need you to grab for anything.
+SPEAKER_01: February 8. The
+SPEAKER_01: God bless you.
+SPEAKER_00: See you in a minute, man. What's going on? How are you?
+SPEAKER_00:
+SPEAKER_00: Just put your hands on your head for me.
+SPEAKER_01: I just...
+SPEAKER_00: Time for my engine here.
+SPEAKER_01:
+SPEAKER_00:
+SPEAKER_00: He's got a gun, he's got a gun, he's got a gun.
+SPEAKER_00: Let me go! Let me go!
+SPEAKER_00: Let me go!
+SPEAKER_00: So
+SPEAKER_00: Let's go!
+SPEAKER_00: No, same more. You know, same more. Shots fired. Shots fired.
+
+
+SPEAKER_00: Beep beep	5.75159375-6.494093750000001
+SPEAKER_00: How you doing?	10.965968750000002-11.590343750000002
+SPEAKER_00: Good, you have any ID on you? Yes, ma'am.	11.978468750000001-15.117218750000003
+SPEAKER_01: Yes, ma'am.	14.172218750000003-14.864093750000002
+SPEAKER_00: You have any idea? Just tell me.	17.59784375-22.81221875
+SPEAKER_01: Just tell me.	20.21346875-21.664718750000002
+SPEAKER_00: What's your name? Matthew Falamon. Falamon?	22.980968750000002-26.625968750000002
+SPEAKER_01: What's it? What's your name?	23.925968750000003-24.63471875
+SPEAKER_01: you	24.68534375-24.719093750000003
+SPEAKER_00: Fowler. Fowler. M-A-T-T-H-E-W. It's right here, ma'am. Sorry, I don't need you. Yeah, you're good. I don't need you to grab for anything.	26.96346875-32.83596875
+SPEAKER_01: February 8. The	29.680343750000002-30.70971875
+SPEAKER_01: God bless you.	32.17784375-32.59971875
+SPEAKER_00: See you in a minute, man. What's going on? How are you?	33.96659375-35.46846875
+SPEAKER_00: 	35.822843750000004-36.16034375
+SPEAKER_00: Just put your hands on your head for me.	36.548468750000005-37.89846875
+SPEAKER_01: I just...	36.666593750000004-36.90284375
+SPEAKER_00: Time for my engine here.	38.37096875-40.91909375
+SPEAKER_01: 	38.674718750000004-39.400343750000005
+SPEAKER_00: 	41.391593750000006-42.235343750000006
+SPEAKER_00: He's got a gun, he's got a gun, he's got a gun.	46.994093750000005-48.17534375
+SPEAKER_00: Let me go! Let me go!	50.11596875-51.398468750000006
+SPEAKER_00: Let me go!	52.52909375-53.220968750000004
+SPEAKER_00: So	53.57534375-53.99721875
+SPEAKER_00: Let's go!	58.35096875000001-58.992218750000006
+SPEAKER_00: No, same more. You know, same more. Shots fired. Shots fired.	69.20159375-71.61471875000001
