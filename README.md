@@ -1,6 +1,25 @@
-# Multimodal Violence Detection System
+# AI4Peace: A Multimodal Approach for Early Detection of Violence
 
 A comprehensive deep learning system for detecting violence and aggression using multiple modalities: **audio**, **textual**, **facial expressions**, and **body pose**. This project implements state-of-the-art models to analyze different aspects of human behavior and communication patterns that may indicate violent or aggressive behavior.
+
+## 👥 Authors
+
+**Kaushal Patil** - kspatil@usc.edu  
+University of Southern California, Los Angeles, CA, USA
+
+**Ruturaj Mohalkar** - mohalkar@usc.edu  
+University of Southern California, Los Angeles, CA, USA
+
+**Vikyath Naradasi** - naradasi@usc.edu  
+University of Southern California, Los Angeles, CA, USA
+
+## 📋 Contributions
+
+**Kaushal Patil**: Lead developer for audio-based violence detection using Wav2Vec2, implemented speaker diarization, and developed the textual analysis pipeline with Gemini API integration.
+
+**Ruturaj Mohalkar**: Implemented the facial expression-based violence detection system using ResNet embeddings and GRU classifiers, including head pose estimation and temporal feature analysis.
+
+**Vikyath Naradasi**: Developed the pose-based violence detection system using LSTM networks and MediaPipe pose estimation, implemented the overall system architecture and integration.
 
 ## 🎯 Project Overview
 
