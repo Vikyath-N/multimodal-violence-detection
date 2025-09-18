@@ -1,0 +1,12 @@
+*.zip
+*.pdf
+*.csv
+*.wav
+*.mp4
+*.pt
+*.pth
+*.tfevents
+__pycache__/
+*.pyc
+.DS_Store
+*/runs/
